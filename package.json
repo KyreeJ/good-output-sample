@@ -1,0 +1,23 @@
+{
+  "name": "output.sample",
+  "version": "1.0.0",
+  "description": "README.md Generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyreeJ/Output-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyreeJ/Output-sample/issues"
+  },
+  "homepage": "https://github.com/KyreeJ/Output-sample#readme",
+  "dependencies": {
+    "inquirer": "^12.0.0"
+  }
+}
